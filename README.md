@@ -32,4 +32,4 @@ I am familiar with mechanical engineering and design engineering. Additionally, 
 
 ![](https://komarev.com/ghpvc/?username=httpsTeabagexe&style=flat-square)
 
-### Thank you for visiting my page, _[visitor's profile name]_!
+### Thank you for visiting my page
