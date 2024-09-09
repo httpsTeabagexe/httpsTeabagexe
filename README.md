@@ -1,6 +1,8 @@
+### STILL WORKING ON README.MD
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://via.placeholder.com/800x200.png?text=Your+Name+Dark+Mode&bg=00000000">
-  <img alt="Cover Image" src="https://via.placeholder.com/800x200.png?text=Your+Name+Light+Mode&bg=00000000">
+  <source media="(prefers-color-scheme: dark)" srcset="https://via.placeholder.com/800x200.png?text=real+slim+shady&bg=00000000">
+  <img alt="Cover Image" src="https://via.placeholder.com/800x200.png?text=Why+are+you+using+LIGHT+MODE&bg=00000000">
 </picture>
 
 I am from Russia and currently a student at the [Moscow Aviation Institute (National Research University)](https://mai.ru/).
