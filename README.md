@@ -49,7 +49,6 @@ I am familiar with mechanical engineering and design engineering. Additionally, 
 <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpsTeabagexe&amp;layout=compact&amp;theme=radical">
 <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=httpsTeabagexe&amp;theme=onedark">
 <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=httpsTeabagexe&amp;theme=dark">
-<img alt="Profile Views" src="https://gpvc.arturio.dev/httpsTeabagexe">
 <img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=httpsTeabagexe&amp;theme=radical">
 
 ### Thank you for visiting my page
