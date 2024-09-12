@@ -1,46 +1,23 @@
 
-### STILL WORKING ON README.MD
+<h1 align="center">Hi 👋, I'm Tim</h1>
+<h3 align="center">I am from Russia and currently a student at the [Moscow Aviation Institute (National Research University)](https://mai.ru/).</h3>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://via.placeholder.com/800x200.png?text=real+slim+shady&bg=00000000">
-  <img alt="Cover Image" src="https://via.placeholder.com/800x200.png?text=Why+are+you+using+LIGHT+MODE&bg=00000000">
-</picture>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=httpsteabagexe&label=Profile%20views&color=ff0059&style=plastic" alt="httpsteabagexe" /> </p>
 
-I am from Russia and currently a student at the [Moscow Aviation Institute (National Research University)](https://mai.ru/).
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=httpsteabagexe" alt="httpsteabagexe" /></a> </p>
 
-I am familiar with mechanical engineering and design engineering. Additionally, I use Visual Studio Code, Visual Studio, and ST Visual Programmer for coding.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://stackoverflow.com/users/20286743" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20286743" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/it's not me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="it's not me" height="30" width="40" /></a>
+<a href="https://discord.gg/teabag_exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="teabag_exe" height="30" width="40" /></a>
+</p>
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/teabag_exe)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@teabag_exe)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-### Languages and Frameworks
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GCC](https://img.shields.io/badge/GCC-%23F34B7D.svg?style=for-the-badge&logo=GCC&logoColor=white)
-![Valgrind](https://img.shields.io/badge/Valgrind-%23000000.svg?style=for-the-badge&logo=Valgrind&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=httpsteabagexe&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="httpsteabagexe" /></p>
 
-### Editors
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=httpsteabagexe&show_icons=true&theme=tokyonight&locale=en" alt="httpsteabagexe" /></p>
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![ST Visual Programmer](https://img.shields.io/badge/ST%20Visual%20Programmer-03234B.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=white)
-![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-%2385C1E9.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
-![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
-
-<!--END_SECTION:waka-->
-### Wall of shame:
-<img src="https://komarev.com/ghpvc/?username=httpsTeabagexe&amp;style=flat-square">
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=httpsTeabagexe&amp;show_icons=true&amp;theme=radical">
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpsTeabagexe&amp;layout=compact&amp;theme=radical">
-<img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=httpsTeabagexe&amp;theme=onedark">
-<img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=httpsTeabagexe&amp;theme=dark">
-
-### Thank you for visiting my page
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=httpsteabagexe&theme=dark" alt="httpsteabagexe" /></p>
