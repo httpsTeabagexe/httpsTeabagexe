@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Tim</h1>
-<h3 align="center">I am from Russia and currently a student at the [Moscow Aviation Institute (National Research University)](https://mai.ru/).</h3>
+<h3 align="center">I am from Russia and currently a student at the Moscow Aviation Institute (National Research University).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=httpsteabagexe&label=Profile%20views&color=ff0059&style=plastic" alt="httpsteabagexe" /> </p>
 
